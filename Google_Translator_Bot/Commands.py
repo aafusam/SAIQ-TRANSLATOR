@@ -23,7 +23,7 @@ async def start_main(main, update):
                 [
                     InlineKeyboardButton
                         (
-                            text = "✅️ Deploy Now ✅️", url = "https://github.com/PR0FESS0R-99/Google-Translator-Bot"
+                            text = "🕵️DEVELOPER🕵️", url = "https://t.me/your_daddy_bro"
                          )
                 ],
                 [
